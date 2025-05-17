@@ -79,7 +79,7 @@ Each data instance in the dataset contains:
 
 ## EDA Results
 
-### Sample Results for Assamese (`as`):
+### Results:
 
 | Metric                        | Value           |
 |-------------------------------|-----------------|
