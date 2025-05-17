@@ -77,7 +77,28 @@ Each data instance in the dataset contains:
 
 ---
 
-## EDA Results
+#  Summary of Key EDA Insights
+
+## 1. Sentence Length Ratio
+- Shows how long the translated sentences are compared to the original.
+- A balanced ratio means good translation quality and alignment.
+
+## 2. BLEU Score
+- Measures how close the machine translation is to a human one.
+- Higher score means better translation accuracy.
+
+## 3. OOV (Out-of-Vocabulary) Rate
+- Tells how many words the model doesn’t recognize.
+- Fewer OOV words lead to better learning and fewer errors.
+
+## 4. Vocabulary Overlap
+- Shows how many words are shared between English and the target language.
+- More overlap helps the model translate better and faster.
+
+## 5. Alignment Accuracy
+- Checks if each sentence in English correctly matches its translation.
+- Good alignment means clean and reliable data for training.
+
 
 ### Results:
 
