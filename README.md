@@ -103,15 +103,15 @@ Each data instance in the dataset contains:
 ### Results:
 
 
-![BLEU](images/bleu.png)
+![BLEU](image/bleu.png)
 
-![OOV](images/oov.png)
+![OOV](image/oov.png)
 
-![Sentence Alignment](images/sentence_alignment.png)
+![Sentence Alignment](image/sentence_alignment.png)
 
-![STS Length Ratio](images/sts_length_ratio.png)
+![STS Length Ratio](image/sts_length_ratio.png)
 
-![Vocabulary Overlap](images/vocabulary_overlap.png)
+![Vocabulary Overlap](image/vocabulary_overlap.png)
 
 
 | Metric                        | Value           |
