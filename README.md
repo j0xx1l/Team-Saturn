@@ -102,6 +102,18 @@ Each data instance in the dataset contains:
 
 ### Results:
 
+
+![BLEU](images/bleu.png)
+
+![OOV](images/oov.png)
+
+![Sentence Alignment](images/sentence_alignment.png)
+
+![STS Length Ratio](images/sts_length_ratio.png)
+
+![Vocabulary Overlap](images/vocabulary_overlap.png)
+
+
 | Metric                        | Value           |
 |-------------------------------|-----------------|
 | Average Source Sentence Length | 15.7 tokens     |
