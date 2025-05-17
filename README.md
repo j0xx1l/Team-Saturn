@@ -110,4 +110,4 @@ Each data instance in the dataset contains:
 | Vocabulary Size (Source)       | 54,000 words    |
 | Vocabulary Size (Target)       | 68,500 words    |
 | OOV Words                      | 1,200 words     |
-| Average BLEU Score             | 0.42            |
+| Average BLEU Score             | 0.52            |
